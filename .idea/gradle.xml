@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Array/Initializing an array of integers" />
+            <option value="$PROJECT_DIR$/Topics/Array/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Calling a method/Area of parallelogram" />
+            <option value="$PROJECT_DIR$/Topics/Calling a method/Call me awesome" />
+            <option value="$PROJECT_DIR$/Topics/Calling a method/Correct names for methods" />
+            <option value="$PROJECT_DIR$/Topics/Calling a method/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Incorrect comments" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Check a number is positive" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Determine the output" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Interval" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/The condition to travel around the world" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Triangle" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Calculate the digit" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Desks" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Difference of times" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/How many nuts each squirrel will get" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Cats are robots" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Keywords" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a primitive" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a reference type" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Null syntax" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Boys in a sport class" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Check the value" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Determine the result" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Job offer" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Hiring a chef" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Print strings in the reverse order" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Reading a number" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String/Check prefix ignoring the case" />
+            <option value="$PROJECT_DIR$/Topics/String/Comparing strings" />
+            <option value="$PROJECT_DIR$/Topics/String/Operations with strings" />
+            <option value="$PROJECT_DIR$/Topics/String/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Collatz conjecture" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Determine the result" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Determine the result (1)" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Magic code" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Squares of natural numbers" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Statements" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/The largest element of a sequence" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/The length of the sequence" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Invalid declaration of variables" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/The name of a variable" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Theory" />
+            <option value="$PROJECT_DIR$/Zookeeper (Java)/task" />
+            <option value="$PROJECT_DIR$/Zookeeper (Java)/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Zookeeper (Java)/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Zookeeper (Java)/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Zookeeper (Java)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Zookeeper (Java)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Zookeeper (Java)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
